@@ -1,3 +1,4 @@
 Simpletransformers
 pandas
 numpy
+torch
